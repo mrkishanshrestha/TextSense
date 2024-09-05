@@ -24,11 +24,11 @@ beautifulsoup4==4.9.3
 Clone the repository:
 
 ```
-git clone https://github.com/Suraj6E/IRA-search-engine
+git clone https://github.com/mrkishanshrestha/TextSense
 ```
 ### Go to the repository:
 ```
-cd IRA-search-engine
+cd TextSense
 ```
 
 ###  Install Folllowing libaries 
